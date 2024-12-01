@@ -4,7 +4,7 @@ A quick boilerplate setup for completing Advent of Code challenges.
 
 ## How to use
 
-1. Clone the repository.
+1. Click the "Use this template" button in the top-right of the page to create your own repository, then clone it down to your machine.
 2. Get your individualised input data from the daily challenge.
 3. Copy / Paste the data into the `input.txt` file in the appropriate day folder.
 4. Fill out the `solution1` and `solution2` functions to solve the challenge. Note that the same input is used for both challenges.
